@@ -7,4 +7,3 @@ console.log(firstName);
 let WILL = 'always great';
 console.log(typeof(WILL));
 
-let PI = 3.1415
