@@ -5,5 +5,5 @@ let firstName = "Hazem";
 console.log(firstName);
 
 let WILL = 'always great';
-console.log(typeof(WILL));
+console.log(typeof(WILL)) ;
 
